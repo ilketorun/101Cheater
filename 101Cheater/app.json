@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "101Cheater",
+    "slug": "101Cheater",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "101Cheater"
+}
